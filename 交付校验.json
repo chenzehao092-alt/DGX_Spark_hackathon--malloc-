@@ -1,0 +1,31 @@
+{
+  "version": "1.6.2-submission",
+  "delivered_date": "2026-09-29",
+  "destination": "E:/MemoryScape",
+  "archive": "MemoryScape-1.6.2-source.zip",
+  "archive_bytes": 1404868,
+  "archive_sha256": "415c119bb644053d296b2e303c1824512dcebbb459d81c4657b8dba39791c3fa",
+  "manifest_sha256": "8809076d41ef20c08949a2942fa801e4c50e28b4967874a41e0ef1c64c25ae37",
+  "manifest_files": 237,
+  "archive_entries": 238,
+  "archive_crc_verified": true,
+  "archive_bytes_match_verified_source": true,
+  "tested_code_hashes_match": true,
+  "known_secret_values_checked": 3,
+  "known_secret_matches": 0,
+  "python_passed": 933,
+  "python_skipped_optional_mcp": 1,
+  "frontend_passed": 134,
+  "private_data_in_archive": false,
+  "api_key_in_archive": false,
+  "model_weights_in_archive": false,
+  "virtual_environment_in_archive": false,
+  "actual_machine_config_in_archive": false,
+  "local_machine_files_not_for_submission": [
+    "configs/deployment.toml",
+    "configs/python-path.txt"
+  ],
+  "hardware_acceptance_dgx_spark": false,
+  "new_paid_or_gpu_inference_performed": false,
+  "remarks": "Submit the source ZIP, not the used working directory. Read the root handoff and competition checklist for deployment and remaining participant tasks."
+}
